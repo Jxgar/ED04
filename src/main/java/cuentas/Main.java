@@ -1,5 +1,5 @@
 package cuentas;
-//Método main
+/**Método main*/
 public class Main {
 
      
